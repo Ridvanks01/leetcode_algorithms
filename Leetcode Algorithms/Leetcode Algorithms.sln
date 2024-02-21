@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1929. Concatenation of Array", "1929. Concatenation of Array\1929. Concatenation of Array.csproj", "{82F850CF-F848-4997-8497-32554CE0BB55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1920. Build Array from Permutation", "1920. Build Array from Permutation\1920. Build Array from Permutation.csproj", "{66B7AFF4-7777-4814-A023-8D162B22C57B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{82F850CF-F848-4997-8497-32554CE0BB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82F850CF-F848-4997-8497-32554CE0BB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82F850CF-F848-4997-8497-32554CE0BB55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B7AFF4-7777-4814-A023-8D162B22C57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B7AFF4-7777-4814-A023-8D162B22C57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B7AFF4-7777-4814-A023-8D162B22C57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B7AFF4-7777-4814-A023-8D162B22C57B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
