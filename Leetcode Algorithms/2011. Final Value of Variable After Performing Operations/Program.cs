@@ -8,8 +8,23 @@ namespace _2011.Final_Value_of_Variable_After_Performing_Operations
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public int FinalValueAfterOperations(string[] operations)
         {
+            int x = 0;
+
+            foreach (string op in operations) {
+                
+                if(op == "++X" ||  op == "X++")
+                {
+                    x++;
+                }
+                else
+                {
+                    x--;
+                }
+            }
+
+            return x;
         }
     }
 }

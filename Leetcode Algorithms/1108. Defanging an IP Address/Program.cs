@@ -8,8 +8,11 @@ namespace _1108.Defanging_an_IP_Address
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public string DefangIPaddr(string address)
         {
+            address = address.Replace(".", "[.]");
+
+            return address;
         }
     }
 }
