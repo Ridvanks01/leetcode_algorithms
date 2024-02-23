@@ -11,6 +11,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2469. Convert the Temperatu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1512. Number of Good Pairs", "1512. Number of Good Pairs\1512. Number of Good Pairs.csproj", "{2A400F12-CDA9-4930-8628-6A235BDA236A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2769. Find the Maximum Achievable Number", "2769. Find the Maximum Achievable Number\2769. Find the Maximum Achievable Number.csproj", "{0E3B1589-BBA8-4C7B-B5E0-42F94724274A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2011. Final Value of Variable After Performing Operations", "2011. Final Value of Variable After Performing Operations\2011. Final Value of Variable After Performing Operations.csproj", "{2A8682C9-286C-4ED3-81E4-634CD7344E6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1108. Defanging an IP Address", "1108. Defanging an IP Address\1108. Defanging an IP Address.csproj", "{6606D17F-7742-453A-BE63-6EF1643A6C67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1470. Shuffle the Array", "1470. Shuffle the Array\1470. Shuffle the Array.csproj", "{37628E82-D822-45E1-AF2E-D8C39BB2CD13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +41,22 @@ Global
 		{2A400F12-CDA9-4930-8628-6A235BDA236A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A400F12-CDA9-4930-8628-6A235BDA236A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A400F12-CDA9-4930-8628-6A235BDA236A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E3B1589-BBA8-4C7B-B5E0-42F94724274A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3B1589-BBA8-4C7B-B5E0-42F94724274A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3B1589-BBA8-4C7B-B5E0-42F94724274A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3B1589-BBA8-4C7B-B5E0-42F94724274A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8682C9-286C-4ED3-81E4-634CD7344E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8682C9-286C-4ED3-81E4-634CD7344E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8682C9-286C-4ED3-81E4-634CD7344E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8682C9-286C-4ED3-81E4-634CD7344E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6606D17F-7742-453A-BE63-6EF1643A6C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6606D17F-7742-453A-BE63-6EF1643A6C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6606D17F-7742-453A-BE63-6EF1643A6C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6606D17F-7742-453A-BE63-6EF1643A6C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37628E82-D822-45E1-AF2E-D8C39BB2CD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37628E82-D822-45E1-AF2E-D8C39BB2CD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37628E82-D822-45E1-AF2E-D8C39BB2CD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37628E82-D822-45E1-AF2E-D8C39BB2CD13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
