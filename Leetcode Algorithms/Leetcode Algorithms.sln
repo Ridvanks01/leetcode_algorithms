@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1920. Build Array from Perm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2469. Convert the Temperature", "2469. Convert the Temperature\2469. Convert the Temperature.csproj", "{ABF7102C-F42D-4CF0-9BB3-FCA286E2466E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1512. Number of Good Pairs", "1512. Number of Good Pairs\1512. Number of Good Pairs.csproj", "{2A400F12-CDA9-4930-8628-6A235BDA236A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{ABF7102C-F42D-4CF0-9BB3-FCA286E2466E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABF7102C-F42D-4CF0-9BB3-FCA286E2466E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABF7102C-F42D-4CF0-9BB3-FCA286E2466E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A400F12-CDA9-4930-8628-6A235BDA236A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A400F12-CDA9-4930-8628-6A235BDA236A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A400F12-CDA9-4930-8628-6A235BDA236A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A400F12-CDA9-4930-8628-6A235BDA236A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
