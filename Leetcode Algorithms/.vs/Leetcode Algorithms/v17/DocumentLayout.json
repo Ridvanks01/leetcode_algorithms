@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC78E3C0-6625-4544-8B5B-C78F1A5D22C1}|sample\\sample.csproj|c:\\users\\ridvanks\\desktop\\leetcode\\leetcode_algorithms\\leetcode algorithms\\sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC78E3C0-6625-4544-8B5B-C78F1A5D22C1}|sample\\sample.csproj|solutionrelative:sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1096F76-DD23-43AD-814F-19A0F1A8437D}|66. Plus One\\66. Plus One.csproj|c:\\users\\ridvanks\\desktop\\leetcode\\leetcode_algorithms\\leetcode algorithms\\66. plus one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1096F76-DD23-43AD-814F-19A0F1A8437D}|66. Plus One\\66. Plus One.csproj|solutionrelative:66. plus one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410F5400-7F34-4EE4-8C53-AC40E08FDCD5}|88. Merge Sorted Array\\88. Merge Sorted Array.csproj|c:\\users\\ridvanks\\desktop\\leetcode\\leetcode_algorithms\\leetcode algorithms\\88. merge sorted array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410F5400-7F34-4EE4-8C53-AC40E08FDCD5}|88. Merge Sorted Array\\88. Merge Sorted Array.csproj|solutionrelative:88. merge sorted array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F850CF-F848-4997-8497-32554CE0BB55}|1929. Concatenation of Array\\1929. Concatenation of Array.csproj|C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\1929. concatenation of array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F850CF-F848-4997-8497-32554CE0BB55}|1929. Concatenation of Array\\1929. Concatenation of Array.csproj|solutionrelative:1929. concatenation of array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A86BA4C-4412-48D7-9C0A-4F9DDBB24281}|58. Length of Last Word\\58. Length of Last Word.csproj|c:\\users\\ridvanks\\desktop\\leetcode\\leetcode_algorithms\\leetcode algorithms\\58. length of last word\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A86BA4C-4412-48D7-9C0A-4F9DDBB24281}|58. Length of Last Word\\58. Length of Last Word.csproj|solutionrelative:58. length of last word\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8B0E29-B208-4835-BEB0-2E51CF567BF1}|2418. Sort The People\\2418. Sort The People.csproj|c:\\users\\ridvanks\\desktop\\leetcode\\leetcode_algorithms\\leetcode algorithms\\2418. sort the people\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8B0E29-B208-4835-BEB0-2E51CF567BF1}|2418. Sort The People\\2418. Sort The People.csproj|solutionrelative:2418. sort the people\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D049300-989D-4B32-A256-41A76AF0A492}|9. Palindrome Number\\9. Palindrome Number.csproj|C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\9. palindrome number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D049300-989D-4B32-A256-41A76AF0A492}|9. Palindrome Number\\9. Palindrome Number.csproj|solutionrelative:9. palindrome number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB9D1B9-8C43-4F47-8FF2-031B49900659}|2235. Add Two Integers\\2235. Add Two Integers.csproj|C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\2235. add two integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB9D1B9-8C43-4F47-8FF2-031B49900659}|2235. Add Two Integers\\2235. Add Two Integers.csproj|solutionrelative:2235. add two integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B09021-7FF5-4132-A7D7-240584A029B2}|509. Fibonacci Number\\509. Fibonacci Number.csproj|C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\509. fibonacci number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B09021-7FF5-4132-A7D7-240584A029B2}|509. Fibonacci Number\\509. Fibonacci Number.csproj|solutionrelative:509. fibonacci number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C09398-548A-4641-B9EF-C9922D91B3EB}|771. Jewels and Stones\\771. Jewels and Stones.csproj|C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\771. jewels and stones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C09398-548A-4641-B9EF-C9922D91B3EB}|771. Jewels and Stones\\771. Jewels and Stones.csproj|solutionrelative:771. jewels and stones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37628E82-D822-45E1-AF2E-D8C39BB2CD13}|1470. Shuffle the Array\\1470. Shuffle the Array.csproj|C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\1470. shuffle the array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37628E82-D822-45E1-AF2E-D8C39BB2CD13}|1470. Shuffle the Array\\1470. Shuffle the Array.csproj|solutionrelative:1470. shuffle the array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\66. Plus One\\Program.cs",
+              "RelativeDocumentMoniker": "66. Plus One\\Program.cs",
+              "ToolTip": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\66. Plus One\\Program.cs",
+              "RelativeToolTip": "66. Plus One\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:13:41.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\88. Merge Sorted Array\\Program.cs",
+              "RelativeDocumentMoniker": "88. Merge Sorted Array\\Program.cs",
+              "ToolTip": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\88. Merge Sorted Array\\Program.cs",
+              "RelativeToolTip": "88. Merge Sorted Array\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:38:59.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\58. Length of Last Word\\Program.cs",
+              "RelativeDocumentMoniker": "58. Length of Last Word\\Program.cs",
+              "ToolTip": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\58. Length of Last Word\\Program.cs",
+              "RelativeToolTip": "58. Length of Last Word\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:38:59.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\sample\\Program.cs",
+              "RelativeDocumentMoniker": "sample\\Program.cs",
+              "ToolTip": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\sample\\Program.cs",
+              "RelativeToolTip": "sample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:38:59.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\2418. Sort The People\\Program.cs",
+              "RelativeDocumentMoniker": "2418. Sort The People\\Program.cs",
+              "ToolTip": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\2418. Sort The People\\Program.cs",
+              "RelativeToolTip": "2418. Sort The People\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:38:59.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\9. Palindrome Number\\Program.cs",
+              "RelativeDocumentMoniker": "9. Palindrome Number\\Program.cs",
+              "ToolTip": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\9. Palindrome Number\\Program.cs",
+              "RelativeToolTip": "9. Palindrome Number\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:38:59.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\2235. Add Two Integers\\Program.cs",
+              "RelativeDocumentMoniker": "2235. Add Two Integers\\Program.cs",
+              "ToolTip": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\2235. Add Two Integers\\Program.cs",
+              "RelativeToolTip": "2235. Add Two Integers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:38:59.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\509. Fibonacci Number\\Program.cs",
+              "RelativeDocumentMoniker": "509. Fibonacci Number\\Program.cs",
+              "ToolTip": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\509. Fibonacci Number\\Program.cs",
+              "RelativeToolTip": "509. Fibonacci Number\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:38:59.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\771. Jewels and Stones\\Program.cs",
+              "RelativeDocumentMoniker": "771. Jewels and Stones\\Program.cs",
+              "ToolTip": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\771. Jewels and Stones\\Program.cs",
+              "RelativeToolTip": "771. Jewels and Stones\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:38:59.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\1470. Shuffle the Array\\Program.cs",
+              "RelativeDocumentMoniker": "1470. Shuffle the Array\\Program.cs",
+              "ToolTip": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\1470. Shuffle the Array\\Program.cs",
+              "RelativeToolTip": "1470. Shuffle the Array\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:38:59.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\1929. Concatenation of Array\\Program.cs",
+              "RelativeDocumentMoniker": "1929. Concatenation of Array\\Program.cs",
+              "ToolTip": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\1929. Concatenation of Array\\Program.cs",
+              "RelativeToolTip": "1929. Concatenation of Array\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:38:59.624Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

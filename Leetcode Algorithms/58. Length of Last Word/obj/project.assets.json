@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\RidvanKS\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ridvanks\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RidvanKS\\Desktop\\New folder\\leetcode_algorithms\\Leetcode Algorithms\\58. Length of Last Word\\58. Length of Last Word.csproj",
+      "projectUniqueName": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\58. Length of Last Word\\58. Length of Last Word.csproj",
       "projectName": "58. Length of Last Word",
-      "projectPath": "C:\\Users\\RidvanKS\\Desktop\\New folder\\leetcode_algorithms\\Leetcode Algorithms\\58. Length of Last Word\\58. Length of Last Word.csproj",
-      "packagesPath": "C:\\Users\\RidvanKS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RidvanKS\\Desktop\\New folder\\leetcode_algorithms\\Leetcode Algorithms\\58. Length of Last Word\\obj\\",
+      "projectPath": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\58. Length of Last Word\\58. Length of Last Word.csproj",
+      "packagesPath": "C:\\Users\\ridvanks\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ridvanks\\Desktop\\leetcode\\leetcode_algorithms\\Leetcode Algorithms\\58. Length of Last Word\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\RidvanKS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ridvanks\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -45,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
